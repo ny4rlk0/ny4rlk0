@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I know little bit about Python, Batch, Unity, C#, blender, 3d Object/Character Design, Oculus Quest, OS's (Windows/Linux/MacOS/Android), Web Design, HTML, SEO, Raspberry PI,
+- 🌱 I know little bit about Python, Batch, Unity, C#, blender, 3d Object/Character Design, Oculus Quest, OS's (Windows/Linux/MacOS/Android), Web Design, HTML, SEO, Raspberry PI, Digital Ocean...
 - 🔭 I released some game on Google Play before: Too old, not good https://play.google.com/store/apps/developer?id=nyarlko
 - 📫 How to reach me: Instagram: @anime_global_desdes
 - ⚡ I’m currently learning Character Design to make a game for Quest 2. (Alpha Stage, Public Beta ETA is: Unknown for now! Licensing issues etc.) 
