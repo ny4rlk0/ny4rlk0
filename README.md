@@ -4,7 +4,7 @@
 - 📫 How to reach me: Instagram: @anime_global_desdes
 - ⚡ I’m currently learning Character Design to make a game for Quest 2. (Alpha Stage, Public Beta ETA is: Unknown for now! Licensing issues etc.) 
 - 💬 I did little bit development for Bot with Telegram API (Crypto currency / advertising bot etc. But i wasn't interested in it too much.)
-- ⚡ I currently live in <img src="https://raw.githubusercontent.com/ny4rlk0/ny4rlk0.github.io/main/tr.png">
+- ⚡ I currently live in   <img src="https://raw.githubusercontent.com/ny4rlk0/ny4rlk0.github.io/main/tr.png">
 <!--
 **ny4rlk0/ny4rlk0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
