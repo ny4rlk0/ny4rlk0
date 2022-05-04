@@ -8,6 +8,8 @@
 - 🌎 I currently live in   <img src="https://raw.githubusercontent.com/ny4rlk0/ny4rlk0.github.io/main/tr.png">
 - 🖥 I also have a website <a href="https://nyarlko.com/">nyarlko.com</a> About: Anime
 - 🛡 Designed some open source game assets: <a href="https://opengameart.org/users/nyarlko">Open Game Art</a>
+- 🌐 I can Speak/Write English / Turkish and Also Japanese (partly, altho i can't write.)
+- 💼 Currently: Unemployed/Univesity.
 <!--
 **ny4rlk0/ny4rlk0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
