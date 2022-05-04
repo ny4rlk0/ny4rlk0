@@ -1,4 +1,5 @@
 ### Hi there 🖐
+- 🌎 I currently live in    <img src="https://raw.githubusercontent.com/ny4rlk0/ny4rlk0.github.io/main/tr.png">
 - 🌱 I know little bit about Python, Batch, Unity, C#, Blender, 3D Object/Character Design, Oculus Quest, OS's (Windows/Linux/MacOS/Android), Server Setup (OS,Apache,VPN), Web Design, HTML, CSS, MySQL, SEO, Raspberry PI, Digital Ocean, Cloud Flare, Adobe Photoshop, Adobe Animate, Sony Vegas, Social Media/Automation/Bot, Network, Firewall...
 - 🖼 I can draw: <a href="https://www.deviantart.com/ny4rlk0/gallery">Deviant Art</a>
 - 🎮 I released some games on Google Play too long ago: <a href="https://play.google.com/store/apps/developer?id=nyarlko">Google Play</a>
@@ -9,7 +10,6 @@
 - 🛡 Designed some open source game assets: <a href="https://opengameart.org/users/nyarlko">Open Game Art</a>
 - 🌐 I can Speak/Write English / Turkish and Also Japanese (partly, altho i can't write.)
 - 💼 Currently: Unemployed/University
-- 🌎 I currently live in    <img src="https://raw.githubusercontent.com/ny4rlk0/ny4rlk0.github.io/main/tr.png">
 <!--
 **ny4rlk0/ny4rlk0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
