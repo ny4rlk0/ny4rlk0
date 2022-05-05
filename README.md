@@ -4,7 +4,7 @@
 - 🖼 I can draw: <a href="https://www.deviantart.com/ny4rlk0/gallery">Deviant Art</a>
 - 🎮 I released some games on Google Play too long ago: <a href="https://play.google.com/store/apps/developer?id=nyarlko">Google Play</a>
 - ☎ You can reach me: Instagram:   <a href="https://www.instagram.com/anime_global_desdes/">@anime_global_desdes</a>
-- ⚡ I’m currently learning Character Design to make a game for Quest 2. (Alpha Stage, Public Beta ETA is: Unknown for now! Licensing issues etc.) 
+- ⚡ I’m currently learning Character Design to make a game (Anime) for Quest 2. (Alpha Stage, Public Beta ETA is: Unknown for now! Licensing issues etc.) 
 - 💬 I did little bit development for Bot with Telegram API (Crypto currency / advertising bot etc. But i wasn't interested in it too much.)
 - 🖥 I also have a website <a href="https://nyarlko.com/">nyarlko.com</a> About: Anime
 - 🛡 Designed some open source game assets: <a href="https://opengameart.org/users/nyarlko">Open Game Art</a>
