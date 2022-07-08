@@ -4,7 +4,7 @@
 - 🖼 I can draw: <a href="https://www.deviantart.com/ny4rlk0/gallery">Deviant Art</a>
 - 📜 I wrote few stories, although they all written in Turkish: <a href="https://www.wattpad.com/user/nyarlk0">Wattpad</a>
 - 🎮 I released some games on Google Play too long ago: <a href="https://play.google.com/store/apps/developer?id=nyarlko">Google Play</a>
-- ☎ You can reach me: **REDACTED**:   *<a href="https://www.google.com">*REDACTED*</a>*
+- ☎ You can reach me: **redacted**:   *<a href="https://www.google.com">*redacted for privacy*</a>*
 - ⚡ I’m currently learning Character Design to make a game (Anime) for Quest 2. (Alpha Stage, Public Beta ETA is: Unknown for now! Licensing issues etc.) 
 - 💬 I did little bit development for Bot with Telegram API (Crypto currency / advertising bot etc. But i wasn't interested in it too much.)
 - 🖥 I also have a website <a href="https://nyarlko.com/">nyarlko.com</a> About: Anime
