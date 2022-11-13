@@ -9,6 +9,7 @@
 - 💬 I did little bit development for Bot with Telegram API (Crypto currency / advertising bot etc. But i wasn't interested in it too much.)
 - 🖥 I also have a website <a href="https://nyarlko.com/">nyarlko.com</a> About: Anime
 - 🛡 Designed some open source game assets: <a href="https://opengameart.org/users/nyarlko">Open Game Art</a>
+- 🛡 Youtube: <a href="[https://opengameart.org/users/nyarlko](https://www.youtube.com/@HaruRinC3)">HaruRinC3</a>
 - 🌐 I can Speak/Write English / Turkish
 - 💼 Currently: Unemployed/University
 <!--
