@@ -1,6 +1,6 @@
 ### Hi there 🖐
 - 🌎 I currently live in    <img src="https://raw.githubusercontent.com/ny4rlk0/ny4rlk0.github.io/main/tr.png">
-- 🌱 I know little bit about Data Recovery, Copy Writing, Python, Batch, Unity, C#, Blender, 3D Object/Character Design, Oculus Quest, OS's (Windows/Linux/MacOS/Android), Server Setup (OS,Apache,VPN), Web Design, WordPress, HTML, CSS, MySQL, SEO, Raspberry PI, Digital Ocean, Cloud Flare, Adobe Photoshop, Adobe Animate, Sony Vegas, Social Media/Automation/Bot, Network, Firewall...
+- 🌱 I know little bit about Data Recovery, Copy Writing, Python, Javascript, Batch, Unity, C#, Blender, 3D Object/Character Design, Oculus Quest, OS's (Windows/Linux/MacOS/Android), Server Setup (OS,Apache,VPN), Web Design, WordPress, HTML, CSS, MySQL, SEO, Raspberry PI, Digital Ocean, Cloud Flare, Adobe Photoshop, Adobe Animate, Sony Vegas, Social Media/Automation/Bot, Network, Firewall...
 - 🖼 I can draw: <a href="https://www.deviantart.com/ny4rlk0/gallery">Deviant Art</a>
 - 📜 I wrote few stories, although they all written in Turkish: <a href="https://www.wattpad.com/user/nyarlk0">Wattpad</a>
 - 🎮 I released some games on Google Play too long ago: <a href="https://play.google.com/store/apps/developer?id=nyarlko">Google Play</a>
