@@ -12,8 +12,8 @@
 - 🛡 Youtube: <a href="https://www.youtube.com/@HaruRinC3">HaruRinC3</a>
 - 🌐 I can Speak/Write English / Turkish
 - 💼 Currently: Unemployed/University
-- ### Donations are always appreciated.
-- <a href="https://patreon.com/nyarlko"> ###Donate </a>
+- Donations are always appreciated.
+- <a href="https://patreon.com/nyarlko">Donate</a>
 <!--
 **ny4rlk0/ny4rlk0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
