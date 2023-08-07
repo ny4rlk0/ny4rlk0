@@ -10,7 +10,7 @@
 <br>•	Grafik tasarım ve düzenleme (Adobe Photoshop, Blender)
 <br>•	Sosyal medya otomasyonu ve yönetimi
 
-<br>- WordPress ile Hazırladığım Web Sitelerinden Örnekler:
+## WordPress ile Hazırladığım Web Sitelerinden Örnekler:
 <br>1.	Haber Dergisi Teknoloji Konulu Site: URL: [Bilgi Dergisi](http://bilgidergisi.infinityfreeapp.com/)
 <br>•	Haber dergisi formatında hazırlanan teknoloji konulu bir website tasarımı gerçekleştirdim.
 <br>•	Site içeriği ve düzenlemelerini yöneterek güncel haberlerin paylaşılmasını sağladım.
@@ -21,8 +21,8 @@
 <br>Eğitim:
 <br>Bilgisayar Programcılığı (Ünye Meslek Yüksekokulu, Ordu Üniversitesi) Eylül 2021 - Haziran 2023
 
-<br>Proje Deneyimleri:
-<br>1.	Anime MMORPG - Sanal Gerçeklikte Oynanan MMORPG Oyunu Şahsi Proje, Ocak 2023 - Şu Anda Unity motorunu ve Oculus Meta Quest 2'yi <br>kullanarak Sanal Gerçeklikte oynanan Anime tabanlı bir MMORPG oyunu üzerinde çalışıyorum.
+## Proje Deneyimleri:
+### 1.	Anime MMORPG - Sanal Gerçeklikte Oynanan MMORPG Oyunu Şahsi Proje, Ocak 2023 - Şu Anda Unity motorunu ve Oculus Meta Quest 2'yi <br>kullanarak Sanal Gerçeklikte oynanan Anime tabanlı bir MMORPG oyunu üzerinde çalışıyorum.
 <br>•	Oyunun tasarımı, sanal dünyanın oluşturulması, karakterlerin ve dünyanın animasyonları gibi çeşitli görevleri üstleniyorum.
 <br>•	Gerçek zamanlı çok oyunculu bir deneyim sunan ve oyun içinde etkileşimli öğeleri yöneten bir MMORPG oyunu geliştiriyorum.
 <br>•	VR oyunlarında hareket mekaniği, etkileşim sistemleri ve oyun içi deneyimi optimize etmeye yönelik çalışmalar yaptım.
