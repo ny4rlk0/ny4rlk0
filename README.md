@@ -28,10 +28,10 @@ kullanarak Sanal Gerçeklikte oynanan Anime tabanlı bir MMORPG oyunu üzerinde 
 <br>•	VR oyunlarında hareket mekaniği, etkileşim sistemleri ve oyun içi deneyimi optimize etmeye yönelik çalışmalar yaptım.
 <br>•	Oculus Meta Quest 2 platformu için oyunların performansını ve kullanıcı deneyimini iyileştirmeye odaklandım.
 <br>•	Unity ve Oculus Meta Quest 2 gibi teknolojilerle çalışmak, sanal gerçeklik ve oyun geliştirme alanlarında oldukça heyecan verici ve <br>ilgi çekici bir deneyim sağlıyor. Bu projelerde elde ettiğim tecrübe, oyun geliştirme ve sanal gerçeklik alanında yetkinliklerimi <br>arttırmama yardımcı oldu. Özellikle gerçek zamanlı oyun deneyimi sunan MMORPG projem, kullanıcıların sanal dünyada birbirleriyle <br>etkileşime geçebileceği ve eğlenceli bir deneyim yaşayabileceği bir platform oluşturmayı hedefliyor.
-### 2.	Android Toolbox - [Android Cihazları için Python Araç Seti] (https://github.com/ny4rlk0/Android-Toolbox-ADB) Şahsi Proje, Ocak 2023 - Şu Anda
+### 2.	Android Toolbox - [Android Cihazları için Python Araç Seti](https://github.com/ny4rlk0/Android-Toolbox-ADB) Şahsi Proje, Ocak 2023 - Şu Anda
 <br>•	Python kullanarak Android cihazları için bir araç seti geliştirdim.
 <br>•	ADB komutlarını otomatikleştiren ve Android cihazları üzerinde çeşitli işlemleri gerçekleştiren bir araç seti tasarladım.
-### 3.	FixMyWindows - [Windows İşletim Sisteminin Genel Sorun Giderici] (https://github.com/ny4rlk0/FixMyWindows) Şahsi Proje, Temmuz 2022 - Aralık 2022
+### 3.	FixMyWindows - [Windows İşletim Sisteminin Genel Sorun Giderici](https://github.com/ny4rlk0/FixMyWindows) Şahsi Proje, Temmuz 2022 - Aralık 2022
 <br>•	Python dili ile Windows işletim sistemi için sorun giderici bir program yazdım.
 <br>•	Otomatik olarak çeşitli Windows sorunlarını tespit eden ve düzelten bir program geliştirdim.
 ### 4.	Remote Access Tool - Telegram Üzerinden Uzaktan Erişim Aracı https://github.com/ny4rlk0/Remote-Access-Tool-Telegram Şahsi Proje, Mayıs 2022 - Eylül 2022
