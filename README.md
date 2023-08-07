@@ -34,38 +34,38 @@ kullanarak Sanal Gerçeklikte oynanan Anime tabanlı bir MMORPG oyunu üzerinde 
 ### 3.	FixMyWindows - [Windows İşletim Sisteminin Genel Sorun Giderici](https://github.com/ny4rlk0/FixMyWindows) Şahsi Proje, Temmuz 2022 - Aralık 2022
 <br>•	Python dili ile Windows işletim sistemi için sorun giderici bir program yazdım.
 <br>•	Otomatik olarak çeşitli Windows sorunlarını tespit eden ve düzelten bir program geliştirdim.
-### 4.	Remote Access Tool - Telegram Üzerinden Uzaktan Erişim Aracı https://github.com/ny4rlk0/Remote-Access-Tool-Telegram Şahsi Proje, Mayıs 2022 - Eylül 2022
+### 4.	Remote Access Tool - [Telegram Üzerinden Uzaktan Erişim Aracı](https://github.com/ny4rlk0/Remote-Access-Tool-Telegram) Şahsi Proje, Mayıs 2022 - Eylül 2022
 <br>•	Python dili ile Telegram üzerinden bilgisayarı uzaktan izleyen ve kontrol eden bir yazılım geliştirdim.
 <br>•	Kullanıcıların belirli komutlar ile bilgisayarlarını uzaktan kontrol edebilmesini sağlayan bir araç tasarladım.
-### 5.	Nyarlko - Türkçe Sohbet Robotu https://github.com/ny4rlk0/nyarlko-turkce-chatbot Şahsi Proje, Mart 2022 - Ağustos 2022
+### 5.	Nyarlko - [Türkçe Sohbet Robotu](https://github.com/ny4rlk0/nyarlko-turkce-chatbot) Şahsi Proje, Mart 2022 - Ağustos 2022
 <br>•	Python üzerinde NLTK ve NumPy kütüphanelerini kullanarak Türkçe bir sohbet robotu geliştirdim.
 <br>•	Doğal dil işleme algoritmalarını kullanarak Türkçe dilindeki çeşitli soruları yanıtlayabilen bir chatbot oluşturdum.
-### 6.	Instagram Post Automation - Toplu Resim Yükleme https://github.com/ny4rlk0/Instagram-Post-Automation Şahsi Proje, Ocak 2022 - Temmuz 2022
+### 6.	Instagram Post Automation - [Toplu Resim Yükleme](https://github.com/ny4rlk0/Instagram-Post-Automation) Şahsi Proje, Ocak 2022 - Temmuz 2022
 <br>•	Python dili ile Instagram kullanıcı adı ve şifresi girildikten sonra bir klasördeki resim dosyalarını Instagram hesabına toplu olarak yükleyen bir yazılım geliştirdim.
 <br>•	Instagram postlarının otomatik olarak yayınlanmasını sağlayarak kullanıcılara zaman kazandıran bir araç tasarladım.
-### 7.	SophosUninstaller - Sophos Antivirüs Yazılımı Kaldırıcı Batch Skripti https://github.com/ny4rlk0/SophosUninstaller Şahsi Proje, Haziran 2021 - Aralık 2021
+### 7.	SophosUninstaller - [Sophos Antivirüs Yazılımı Kaldırıcı Batch Skripti](https://github.com/ny4rlk0/SophosUninstaller) Şahsi Proje, Haziran 2021 - Aralık 2021
 <br>•	Hava alanı ve kamu kuruluşları tarzı yüksek güvenlikli yerlerde kullanılan Sophos Antivirüs yazılımını kaldıran bir Windows batch skripti yazdım.
 <br>•	Sophos Antivirüs programını tamamen ve iz bırakmadan kaldıran bir araç tasarladım.
-### 8.	Werewolf Chat Bot - Telegram Üzerinden Oynanan Oyuna Yardımcı Bot https://github.com/ny4rlk0/Werewolf-Chat-Bot Şahsi Proje, Şubat 2021 - Haziran 2021
+### 8.	Werewolf Chat Bot - [Telegram Üzerinden Oynanan Oyuna Yardımcı Bot](https://github.com/ny4rlk0/Werewolf-Chat-Bot) Şahsi Proje, Şubat 2021 - Haziran 2021
 <br>•	Python diliyle Telegram üzerinden oynanan Werewolf oyununa yardımcı chat komutlarıyla çalışan bir bot yazdım.
 <br>•	Rollerinizi belirli komutlarla tanımlayarak oyun içinde kolayca rollerinizi görüntüleyebileceğiniz bir bot geliştirdim.
-### 9.	LeagueOfLegendsValorantClientDownloader - C# ile Oyun İndirme Programı https://github.com/ny4rlk0/LeagueOfLegendsValorantClientDownloader Şahsi Proje, Ekim 2020 - Ocak 2021
+### 9.	LeagueOfLegendsValorantClientDownloader - [C# ile Oyun İndirme Programı](https://github.com/ny4rlk0/LeagueOfLegendsValorantClientDownloader) Şahsi Proje, Ekim 2020 - Ocak 2021
 <br>•	C# üzerinde Valorant ve League of Legends oyunlarını istediğiniz bölgeden indirme olanağı sağlayan bir program geliştirdim.
 <br>•	Kullanıcıların istedikleri oyun istemcisini seçerek hızlı ve güvenli bir şekilde indirmelerini sağlayan bir araç tasarladım.
-### 10.	BlenderDumpster - 3D Tasarım Projesi https://github.com/ny4rlk0/BlenderDumpster Şahsi Proje, Temmuz 2020 - Aralık 2020
+### 10.	BlenderDumpster - [3D Tasarım Projesi](https://github.com/ny4rlk0/BlenderDumpster) Şahsi Proje, Temmuz 2020 - Aralık 2020
 ### 11.	Nyarlko Network Backup & Restore - Ağ Üzerinde Yedekleme ve Geri Yükleme Programı https://github.com/ny4rlk0/Nyarlko-Network-Backup-Restore Şahsi Proje, Mayıs 2020 - Eylül 2020
 <br>•	Python dilini ve Windows SMB dosya paylaşımını kullanarak ağ üzerindeki bir konuma bir klasörü tarih ve saat atarak yedekleyen, daha <br>sonra ihtiyaç olduğunda seçilen tarihli yedeği bilgisayara geri yükleyen bir program yazdım.
 <br>•	Ağ ortamında dosya yedekleme ve geri yükleme işlemlerini otomatikleştiren bir araç geliştirdim.
-### 12.	FileServer - Dosya Sunucusu Yazılımı https://github.com/ny4rlk0/FileServer_DosyaSunucusu Şahsi Proje, Mart 2020 - Ağustos 2020
+### 12.	FileServer - [Dosya Sunucusu Yazılımı](https://github.com/ny4rlk0/FileServer_DosyaSunucusu) Şahsi Proje, Mart 2020 - Ağustos 2020
 <br>•	Python Flask ve HTTP kullanarak statik bir sayfa ile yerel bir sunucu oluşturup bir klasörün içerindeki dosya ve klasörleri ağdaki <br>diğer bilgisayarlardan indirmeye ve programın çalıştığı bilgisayara yüklemeye yarayan bir yazılım yazdım.
 <br>•	Dosya paylaşımını kolaylaştıran ve kullanıcıların ağ üzerindeki dosyalara web tarayıcılarından erişimini sağlayan bir dosya sunucusu <br>programı oluşturdum.
-### 13.	Telegram Superloto Tahmin Oyunu - Python ile Oyun Yazılımı https://github.com/ny4rlk0/Telegram-Superloto-Tahmin-Oyunu Şahsi Proje, Aralık 2019 - Temmuz 2020
+### 13.	Telegram Superloto Tahmin Oyunu - [Python ile Oyun Yazılımı](https://github.com/ny4rlk0/Telegram-Superloto-Tahmin-Oyunu) Şahsi Proje, Aralık 2019 - Temmuz 2020
 <br>•	Python kullanarak Telegram üzerinden oynayabileceğiniz bir süper loto tahmin oyunu yazdım.
 <br>•	Kullanıcıların süper loto tahminleri yaparak eğlenceli bir oyun deneyimi yaşamalarını sağlayan bir Telegram botu tasarladım.
-### 14.	Telegram Sihirli 8 Top Tahmin Oyunu - Python ile Oyun Yazılımı https://github.com/ny4rlk0/Telegram-Sihirli-8-Top-Tahmin-Oyunu Şahsi Proje, Ağustos 2019 - Şubat 2020
+### 14.	Telegram Sihirli 8 Top Tahmin Oyunu - [Python ile Oyun Yazılımı](https://github.com/ny4rlk0/Telegram-Sihirli-8-Top-Tahmin-Oyunu) Şahsi Proje, Ağustos 2019 - Şubat 2020
 <br>•	Python kullanarak Telegram üzerinden oynanabilen bir sihirli 8 top tahmin oyunu yazdım.
 <br>•	Kullanıcıların sihirli 8 topa tahminlerde bulunarak keyifli vakit geçirmesini sağlayan bir Telegram botu geliştirdim.
-### 15.	Telegram User Add Bot - Python ile Gruplara Kullanıcı Ekleme Botu https://github.com/ny4rlk0/Telegram-User-Add-Bot-Python Şahsi Proje, Mart 2019 - Temmuz 2019
+### 15.	Telegram User Add Bot - [Python ile Telegram Gruplararına Kullanıcı Ekleme Botu](https://github.com/ny4rlk0/Telegram-User-Add-Bot-Python) Şahsi Proje, Mart 2019 - Temmuz 2019
 <br>•	Python dili ve telethon kütüphanesi ile bir gruptaki kullanıcıları diğer gruba eklemeye yarayan bir yazılım yazdım.
 <br>•	Kullanıcıların gruplara otomatik olarak eklenmelerini sağlayan ve grup yönetimini kolaylaştıran bir Telegram botu tasarladım.
 
