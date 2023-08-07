@@ -10,11 +10,11 @@
 <br>•	Sosyal medya otomasyonu ve yönetimi
 
 ## WordPress ile Hazırladığım Web Sitelerinden Örnekler:
-<br>1.	Haber Dergisi Teknoloji Konulu Site: URL: [Bilgi Dergisi](http://bilgidergisi.infinityfreeapp.com/)
+<br>1.	Haber Dergisi Teknoloji Konulu Site: [Bilgi Dergisi](http://bilgidergisi.infinityfreeapp.com/)
 <br>•	Haber dergisi formatında hazırlanan teknoloji konulu bir website tasarımı gerçekleştirdim.
 <br>•	Site içeriği ve düzenlemelerini yöneterek güncel haberlerin paylaşılmasını sağladım.
 <br>
-<br>2.	Halı Yıkama Mağazası İçin Web Sitesi: URL: [BiciBici Halı Yıkama](http://bicibici-haliyikama.epizy.com/)
+<br>2.	Halı Yıkama Mağazası İçin Web Sitesi: [BiciBici Halı Yıkama](http://bicibici-haliyikama.epizy.com/)
 <br>•	Halı yıkama mağazası için özel olarak tasarlanmış bir web sitesi oluşturdum.
 <br>•	Mağaza hizmetleri, iletişim bilgileri ve diğer detaylarını içeren kullanıcı dostu bir web sitesi geliştirdim.
 <br>Github Adresim: [Github](https://github.com/ny4rlk0)
