@@ -4,7 +4,7 @@
 <!--- 🌱 I know little bit about Data Recovery, Copy Writing, Python, Javascript, Batch, Unity, C#, Blender, 3D Object/Character Design, Oculus Quest, OS's (Windows/Linux/MacOS/Android), Server Setup (OS,Apache,VPN), Web Design, WordPress, HTML, CSS, MySQL, SEO, Raspberry PI, Digital Ocean, Cloud Flare, Adobe Photoshop, Adobe Animate, Sony Vegas, Social Media/Automation/Bot, Network, Firewall...--->
 
 <br>- WordPress ile Hazırladığım Web Sitelerinden Örnekler:
-<br>1.	Haber Dergisi Teknoloji Konulu Site: URL: http://bilgidergisi.infinityfreeapp.com/
+<br>1.	Haber Dergisi Teknoloji Konulu Site: URL: [Bilgi Dergisi](http://bilgidergisi.infinityfreeapp.com/)
 <br>•	Haber dergisi formatında hazırlanan teknoloji konulu bir website tasarımı gerçekleştirdim.
 <br>•	Site içeriği ve düzenlemelerini yöneterek güncel haberlerin paylaşılmasını sağladım.
 <br>2.	Halı Yıkama Mağazası İçin Web Sitesi: URL: http://bicibici-haliyikama.epizy.com/
