@@ -7,6 +7,7 @@
 <br>•	Veritabanı yönetimi (MySQL)
 <br>•	Raspberry PI, Digital Ocean, Cloud Flare gibi teknolojilere hakimiyet
 <br>•	Grafik tasarım ve düzenleme (Adobe Photoshop, Blender)
+<br>•	Oyun Motoru (Unity)
 <br>•	Sosyal medya otomasyonu ve yönetimi
 
 ## WordPress ile Hazırladığım Web Sitelerinden Örnekler:
