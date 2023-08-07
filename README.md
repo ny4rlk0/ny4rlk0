@@ -2,6 +2,13 @@
 <!---"We are living on a borrowed time." -->
 <!---- 🌎 I currently live in    <img src="https://raw.githubusercontent.com/ny4rlk0/ny4rlk0.github.io/main/tr.png"> -->
 <!--- 🌱 I know little bit about Data Recovery, Copy Writing, Python, Javascript, Batch, Unity, C#, Blender, 3D Object/Character Design, Oculus Quest, OS's (Windows/Linux/MacOS/Android), Server Setup (OS,Apache,VPN), Web Design, WordPress, HTML, CSS, MySQL, SEO, Raspberry PI, Digital Ocean, Cloud Flare, Adobe Photoshop, Adobe Animate, Sony Vegas, Social Media/Automation/Bot, Network, Firewall...--->
+## Yetenekler:
+<br>•	Web geliştirme ve programlama becerileri (Wordpress, PHP, HTML, CSS, Javascript)
+<br>•	Python, C#, Batch ve PHP dillerinde yazılım geliştirme
+<br>•	Veritabanı yönetimi (MySQL)
+<br>•	Raspberry PI, Digital Ocean, Cloud Flare gibi teknolojilere hakimiyet
+<br>•	Grafik tasarım ve düzenleme (Adobe Photoshop, Blender)
+<br>•	Sosyal medya otomasyonu ve yönetimi
 
 <br>- WordPress ile Hazırladığım Web Sitelerinden Örnekler:
 <br>1.	Haber Dergisi Teknoloji Konulu Site: URL: [Bilgi Dergisi](http://bilgidergisi.infinityfreeapp.com/)
@@ -13,13 +20,7 @@
 <br>Github Adresim: https://github.com/ny4rlk0
 <br>Eğitim:
 <br>Bilgisayar Programcılığı (Ünye Meslek Yüksekokulu, Ordu Üniversitesi) Eylül 2021 - Haziran 2023
-<br>Yetenekler:
-<br>•	Web geliştirme ve programlama becerileri (Wordpress, PHP, HTML, CSS, Javascript)
-<br>•	Python, C#, Batch ve PHP dillerinde yazılım geliştirme
-<br>•	Veritabanı yönetimi (MySQL)
-<br>•	Raspberry PI, Digital Ocean, Cloud Flare gibi teknolojilere hakimiyet
-<br>•	Grafik tasarım ve düzenleme (Adobe Photoshop, Blender)
-<br>•	Sosyal medya otomasyonu ve yönetimi
+
 <br>Proje Deneyimleri:
 <br>1.	Anime MMORPG - Sanal Gerçeklikte Oynanan MMORPG Oyunu Şahsi Proje, Ocak 2023 - Şu Anda Unity motorunu ve Oculus Meta Quest 2'yi <br>kullanarak Sanal Gerçeklikte oynanan Anime tabanlı bir MMORPG oyunu üzerinde çalışıyorum.
 <br>•	Oyunun tasarımı, sanal dünyanın oluşturulması, karakterlerin ve dünyanın animasyonları gibi çeşitli görevleri üstleniyorum.
