@@ -2,13 +2,13 @@
 <!---- 🌎 I currently live in    <img src="https://raw.githubusercontent.com/ny4rlk0/ny4rlk0.github.io/main/tr.png"> -->
 <!--- 🌱 I know little bit about Data Recovery, Copy Writing, Python, Javascript, Batch, Unity, C#, Blender, 3D Object/Character Design, Oculus Quest, OS's (Windows/Linux/MacOS/Android), Server Setup (OS,Apache,VPN), Web Design, WordPress, HTML, CSS, MySQL, SEO, Raspberry PI, Digital Ocean, Cloud Flare, Adobe Photoshop, Adobe Animate, Sony Vegas, Social Media/Automation/Bot, Network, Firewall...--->
 ## Yetenekler:
-<br>•	Web geliştirme ve programlama becerileri (Wordpress, PHP, HTML, CSS, Javascript)
-<br>•	Python, C#, Batch ve PHP dillerinde yazılım geliştirme
-<br>•	Veritabanı yönetimi (MySQL)
+<br>•	Web Geliştirme ve Programlama Becerileri (Wordpress, PHP, HTML, CSS, Javascript)
+<br>•	Python, C#, Batch ve PHP Dillerinde Yazılım Geliştirme
+<br>•	Veritabanı Yönetimi (MySQL)
 <br>•	Raspberry PI, Digital Ocean, Cloud Flare gibi teknolojilere hakimiyet
-<br>•	Grafik tasarım ve düzenleme (Adobe Photoshop, Blender)
-<br>•	Oyun Motoru (Unity)
-<br>•	Sosyal medya otomasyonu ve yönetimi
+<br>•	Grafik Tasarım ve Düzenleme (Adobe Photoshop, Blender)
+<br>•	Oyun Motoru ile Oyun Geliştirme (Unity)
+<br>•	Sosyal Medya Otomasyonu ve Yönetimi
 
 ## WordPress ile Hazırladığım Web Sitelerinden Örnekler:
 <br>1.	Haber Dergisi Teknoloji Konulu Site: [Bilgi Dergisi](http://bilgidergisi.infinityfreeapp.com/)
