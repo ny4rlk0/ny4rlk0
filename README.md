@@ -73,7 +73,7 @@ kullanarak Sanal Gerçeklikte oynanan Anime tabanlı bir MMORPG oyunu üzerinde 
 <br>•	Kullanıcıların gruplara otomatik olarak eklenmelerini sağlayan ve grup yönetimini kolaylaştıran bir Telegram botu tasarladım.
 ### 16. [BossBotnet](https://github.com/neptune1881/BossBotnet) Varolan Botnetlerden Birini Tespit ve Farkındalık Oluşturma Girişimi Şahsi Proje, Şubat 2023 - Nisan 2023
 <br>• Tersine mühendislik yöntemleriyle kaynak koduna kadar inerek ne yaptığını çözümlüyorum.
-<br>• Bu projeyi gerçekleştirirken, siber güvenlik konusundaki farkındalığı artırmayı ve toplumu potansiyel tehditlere karşı insanları bilinçlendirmeyi amaçlıyorum.
+<br>• Bu projeyi gerçekleştirirken, siber güvenlik konusundaki farkındalığı artırmayı, toplumu potansiyel tehditlere karşı bilinçlendirmeyi amaçlıyorum.
 
 <br>
 <br>
