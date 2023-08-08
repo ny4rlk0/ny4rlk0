@@ -18,7 +18,7 @@
 <br>2.	Halı Yıkama Mağazası İçin Web Sitesi: [BiciBici Halı Yıkama](http://bicibici-haliyikama.epizy.com/)
 <br>•	Halı yıkama mağazası için özel olarak tasarlanmış bir web sitesi oluşturdum.
 <br>•	Mağaza hizmetleri, iletişim bilgileri ve diğer detaylarını içeren kullanıcı dostu bir web sitesi geliştirdim.
-<!--<br>Github Adresim: [Github](https://github.com/ny4rlk0)-->
+<!-- <br>Github Adresim: [Github](https://github.com/ny4rlk0) -->
 ## Eğitim:
 <br>Bilgisayar Programcılığı (Ünye Meslek Yüksekokulu, Ordu Üniversitesi) Eylül 2021 - Haziran 2023
 
