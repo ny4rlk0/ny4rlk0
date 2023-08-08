@@ -47,7 +47,7 @@ kullanarak Sanal Gerçeklikte oynanan Anime tabanlı bir MMORPG oyunu üzerinde 
 <br>•	Python dili ile Instagram kullanıcı adı ve şifresi girildikten sonra bir klasördeki resim dosyalarını Instagram hesabına toplu olarak yükleyen bir yazılım geliştirdim.
 <br>•	Instagram postlarının otomatik olarak yayınlanmasını sağlayarak kullanıcılara zaman kazandıran bir araç tasarladım.
 ### 7.	SophosUninstaller - [Sophos Antivirüs Yazılımı Kaldırıcı Batch Skripti](https://github.com/ny4rlk0/SophosUninstaller) Şahsi Proje, Haziran 2021 - Aralık 2021
-<br>•	Hava alanı ve kamu kuruluşları tarzı yüksek güvenlikli yerlerde kullanılan Sophos Antivirüs yazılımını kaldıran bir Windows batch skripti yazdım.
+<br>•	Havaalanı ve kamu kuruluşları tarzı yüksek güvenlikli yerlerde kullanılan Sophos Antivirüs yazılımını kaldıran bir Windows batch skripti yazdım.
 <br>•	Sophos Antivirüs programını tamamen ve iz bırakmadan kaldıran bir araç tasarladım.
 ### 8.	Werewolf Chat Bot - [Telegram Üzerinden Oynanan Oyuna Yardımcı Bot](https://github.com/ny4rlk0/Werewolf-Chat-Bot) Şahsi Proje, Şubat 2021 - Haziran 2021
 <br>•	Python diliyle Telegram üzerinden oynanan Werewolf oyununa yardımcı chat komutlarıyla çalışan bir bot yazdım.
