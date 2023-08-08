@@ -71,8 +71,7 @@ kullanarak Sanal Gerçeklikte oynanan Anime tabanlı bir MMORPG oyunu üzerinde 
 ### 15.	Telegram User Add Bot - [Python ile Telegram Gruplararına Kullanıcı Ekleme Botu](https://github.com/ny4rlk0/Telegram-User-Add-Bot-Python) Şahsi Proje, Mart 2019 - Temmuz 2019
 <br>•	Python dili ve telethon kütüphanesi ile bir gruptaki kullanıcıları diğer gruba eklemeye yarayan bir yazılım yazdım.
 <br>•	Kullanıcıların gruplara otomatik olarak eklenmelerini sağlayan ve grup yönetimini kolaylaştıran bir Telegram botu tasarladım.
-### 16. [BossBotnet](https://github.com/neptune1881/BossBotnet) Varolan Botnetlerden Birini Tespit ve Farkındalık Oluşturma Girişimi
-GitHub Projesi, Şahsi Proje, Şubat 2023 - Nisan 2023
+### 16. [BossBotnet](https://github.com/neptune1881/BossBotnet) Varolan Botnetlerden Birini Tespit ve Farkındalık Oluşturma Girişimi Şahsi Proje, Şubat 2023 - Nisan 2023
 <br>• Tersine mühendislik yöntemleriyle kaynak koduna kadar inerek ne yaptığını çözümlüyorum.
 <br>• Bu projeyi gerçekleştirirken, siber güvenlik konusundaki farkındalığı artırmayı ve toplumu potansiyel tehditlere karşı insanları bilinçlendirmeyi amaçlıyorum.
 
