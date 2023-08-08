@@ -56,7 +56,7 @@ kullanarak Sanal Gerçeklikte oynanan Anime tabanlı bir MMORPG oyunu üzerinde 
 <br>•	C# üzerinde Valorant ve League of Legends oyunlarını istediğiniz bölgeden indirme olanağı sağlayan bir program geliştirdim.
 <br>•	Kullanıcıların istedikleri oyun istemcisini seçerek hızlı ve güvenli bir şekilde indirmelerini sağlayan bir araç tasarladım.
 ### 10.	BlenderDumpster - [3D Tasarım Projesi](https://github.com/ny4rlk0/BlenderDumpster) Şahsi Proje, Temmuz 2020 - Aralık 2020
-### 11.	Nyarlko Network Backup & Restore - Ağ Üzerinde Yedekleme ve Geri Yükleme Programı https://github.com/ny4rlk0/Nyarlko-Network-Backup-Restore Şahsi Proje, Mayıs 2020 - Eylül 2020
+### 11.	Nyarlko Network Backup & Restore - [Ağ Üzerinde Yedekleme ve Geri Yükleme Programı](https://github.com/ny4rlk0/Nyarlko-Network-Backup-Restore) Şahsi Proje, Mayıs 2020 - Eylül 2020
 <br>•	Python dilini ve Windows SMB dosya paylaşımını kullanarak ağ üzerindeki bir konuma bir klasörü tarih ve saat atarak yedekleyen, daha <br>sonra ihtiyaç olduğunda seçilen tarihli yedeği bilgisayara geri yükleyen bir program yazdım.
 <br>•	Ağ ortamında dosya yedekleme ve geri yükleme işlemlerini otomatikleştiren bir araç geliştirdim.
 ### 12.	FileServer - [Dosya Sunucusu Yazılımı](https://github.com/ny4rlk0/FileServer_DosyaSunucusu) Şahsi Proje, Mart 2020 - Ağustos 2020
