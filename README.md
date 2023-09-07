@@ -6,7 +6,7 @@
 <br>•	Python, C#, Batch ve PHP Dillerinde Yazılım Geliştirme
 <br>•	Veritabanı Yönetimi (MySQL)
 <br>•	Raspberry PI, Digital Ocean, Cloud Flare gibi teknolojilere hakimiyet
-<br>•	Grafik Tasarım ve Düzenleme (Adobe Photoshop, Blender)
+<br>•	Grafik Tasarım ve Düzenleme (Adobe Photoshop, Blender, Clip Studio Paint)
 <br>•	Oyun Motoru ile Oyun Geliştirme (Unity)
 <br>•	Sosyal Medya Otomasyonu ve Yönetimi
 <!-- <br>• Yazılım Üzerinde Tersine Mühendislik -->
