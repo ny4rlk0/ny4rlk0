@@ -24,7 +24,7 @@
 <br>•	Yer gösterici olarak özel olarak tasarlanmış bir web sitesi oluşturdum.
 <!-- <br>Github Adresim: [Github](https://github.com/ny4rlk0) -->
 ## Eğitim:
-<br>Bilgisayar Programcılığı (Ünye Meslek Yüksekokulu, Ordu Üniversitesi) Eylül 2021 - Haziran 2023
+<br>Bilgisayar Programcılığı (Meslek Yüksekokulu) Eylül 2021 - Haziran 2023
 
 ## Proje Deneyimleri:
 ### 1.	Anime MMORPG - Sanal Gerçeklikte Oynanan MMORPG Oyunu Şahsi Proje, Ocak 2023 - Şu Anda Unity motorunu ve Oculus Meta Quest 2'yi 
