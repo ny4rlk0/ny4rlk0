@@ -19,7 +19,8 @@
 <br>2.	Halı Yıkama Mağazası İçin Web Sitesi: [BiciBici Halı Yıkama](http://bicibici-haliyikama.epizy.com/)
 <br>•	Halı yıkama mağazası için özel olarak tasarlanmış bir web sitesi oluşturdum.
 <br>•	Mağaza hizmetleri, iletişim bilgileri ve diğer detaylarını içeren kullanıcı dostu bir web sitesi geliştirdim.
-
+<br>
+## CSS HTML ve Javascriptle Hazırladığım Web Sitelerinden Örnekler:
 <br>3.	Anime Temalı Web Sitesi: [nyarlko.com](http://nyarlko.com/)
 <br>•	Yer gösterici olarak özel olarak tasarlanmış bir web sitesi oluşturdum.
 <!-- <br>Github Adresim: [Github](https://github.com/ny4rlk0) -->
