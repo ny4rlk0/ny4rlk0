@@ -1,4 +1,5 @@
 <!---"We are living on a borrowed time." -->
+<!--"Raw'a basıp inceleyecek kadar meraklılar için ek bilgi: Youtube'da arama yaparken before:2017 after:2015 şeklinde arayarak tamamiyle youtube'nin yeni s***k arama sistemini ve shortsları bypass edebilirsin.  İkisinden birinide kullanabilirsin."-->
 <!---- 🌎 I currently live in    <img src="https://raw.githubusercontent.com/ny4rlk0/ny4rlk0.github.io/main/tr.png"> -->
 <!--- 🌱 I know little bit about Data Recovery, Copy Writing, Python, Javascript, Batch, Unity, C#, Blender, 3D Object/Character Design, Oculus Quest, OS's (Windows/Linux/MacOS/Android), Server Setup (OS,Apache,VPN), Web Design, WordPress, HTML, CSS, MySQL, SEO, Raspberry PI, Digital Ocean, Cloud Flare, Adobe Photoshop, Adobe Animate, Sony Vegas, Social Media/Automation/Bot, Network, Firewall...--->
 ## Yetenekler:
