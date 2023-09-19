@@ -78,7 +78,9 @@ kullanarak Sanal Gerçeklikte oynanan Anime tabanlı bir MMORPG oyunu üzerinde 
 ### 16. [BossBotnet](https://github.com/neptune1881/BossBotnet) Varolan Botnetlerden Birini Tespit ve Farkındalık Oluşturma Girişimi Şahsi Proje, Şubat 2023 - Nisan 2023
 <br>• Tersine mühendislik yöntemleriyle kaynak koduna kadar inerek ne yaptığını çözümlüyorum.
 <br>• Bu projeyi gerçekleştirirken, siber güvenlik konusundaki farkındalığı artırmayı, toplumu potansiyel tehditlere karşı bilinçlendirmeyi amaçlıyorum.
-
+### 17. [Blender Modelleme](https://patreon.com/nyarlko) Blender Programında Modellediğim Eşyalar ve CSP Programında Çizdiğim Dijital Çizimler Şahsi Proje, Ağustos 2023 - Eylül 2023
+<br>• Blender yazılımıyla eşya veya nesnelerin modellemelerini yapıyorum.
+<br>• Clip Studio Paint yazılımıyla dijital çizim çiziyorum.
 <br>
 <br>
 <!--"If you want a happy ending, it depends on where you stop your story."-->
