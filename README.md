@@ -12,6 +12,19 @@
 <br>•	Sosyal Medya Otomasyonu ve Yönetimi
 <!-- <br>• Yazılım Üzerinde Tersine Mühendislik -->
 
+## Sertifikalar:
+<br>•	Unity ile Dijital Oyun Geliştirmeye Giriş
+<br>•	Blender 2.8 Anime Character Creation, for Games
+<br>•	Adobe Photoshop CC 2023
+<br>•	Clip Studio Paint - Essential Training Course
+<br>•	Pardus Arayüz Kullanımı
+<br>•	WordPress İnternet Sitesi Kurma
+<br>•	Linux for Beginners
+<br>•	Blender Character Rigging For Beginners
+
+
+
+
 ## WordPress ile Hazırladığım Web Sitelerinden Örnekler:
 <br>1.	Haber Dergisi Teknoloji Konulu Site: [Bilgi Dergisi](http://bilgidergisi.infinityfreeapp.com/)
 <br>•	Haber dergisi formatında hazırlanan teknoloji konulu bir website tasarımı gerçekleştirdim.
