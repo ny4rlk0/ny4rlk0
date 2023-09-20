@@ -21,6 +21,7 @@
 <br>•	WordPress İnternet Sitesi Kurma
 <br>•	Linux for Beginners
 <br>•	Blender Character Rigging For Beginners
+<br>•	Python ile Sıfırdan İleri Seviye Programlama
 
 
 
