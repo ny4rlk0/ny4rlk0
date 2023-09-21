@@ -22,9 +22,8 @@
 <br>•	Linux for Beginners
 <br>•	Blender Character Rigging For Beginners
 <br>•	Python ile Sıfırdan İleri Seviye Programlama
-
-
-
+<br>•	Temel Ağ Teknolojileri
+<br>•	Unity ile 3D Oyun Geliştirme (İleri Seviye)
 
 ## WordPress ile Hazırladığım Web Sitelerinden Örnekler:
 <br>1.	Haber Dergisi Teknoloji Konulu Site: [Bilgi Dergisi](http://bilgidergisi.infinityfreeapp.com/)
