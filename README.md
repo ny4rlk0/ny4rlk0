@@ -95,8 +95,6 @@ kullanarak Sanal Gerçeklikte oynanan Anime tabanlı bir MMORPG oyunu üzerinde 
 ### 17. [Blender Modelleme](https://patreon.com/nyarlko) Blender Programında Modellediğim Eşyalar ve CSP Programında Çizdiğim Dijital Çizimler Şahsi Proje, Ağustos 2023 - Eylül 2023
 <br>• Blender yazılımıyla eşya veya nesnelerin modellemelerini yapıyorum.
 <br>• Clip Studio Paint yazılımıyla dijital çizim çiziyorum.
-<br>
-<br>
 ### 18. [WindowsİmajAracı](https://github.com/ny4rlk0/WindowsImageTool) Windows ve PE İmajlarını Düzenleme Yazılımı Şahsi Proje, Ağustos 2023 - Ekim 2023
 <br>• Windows İmajlarını düzenleme, dosya ekleme, dil değiştirme vb.
 <br>
