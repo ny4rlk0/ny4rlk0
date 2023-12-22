@@ -8,7 +8,7 @@
 <br>•	Raspberry PI, Digital Ocean, Cloud Flare gibi teknolojilere hakimiyet
 <br>•	Grafik Tasarım ve Düzenleme (Adobe Photoshop, Blender, Clip Studio Paint)
 <br>•	Oyun Motoru ile Oyun Geliştirme (Unity)
-<br>•	Sosyal Medya Otomasyonu ve Yönetimi
+<br>•	Sosyal Medya Yönetimi
 <!-- <br>• Yazılım Üzerinde Tersine Mühendislik -->
 
 ## Sertifikalar:
