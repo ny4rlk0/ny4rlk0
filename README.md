@@ -23,7 +23,7 @@
 <br>•	Python ile Sıfırdan İleri Seviye Programlama
 <br>•	Temel Ağ Teknolojileri
 <br>•	Unity ile 3D Oyun Geliştirme (İleri Seviye)
-
+<!--
 ## WordPress ile Hazırladığım Web Sitelerinden Örnekler:
 <br>1.	Haber Dergisi Teknoloji Konulu Site: [Bilgi Dergisi](http://bilgidergisi.infinityfreeapp.com/)
 <br>•	Haber dergisi formatında hazırlanan teknoloji konulu bir website tasarımı gerçekleştirdim.
@@ -32,7 +32,7 @@
 <br>2.	Halı Yıkama Mağazası İçin Web Sitesi: [BiciBici Halı Yıkama](http://bicibici-haliyikama.epizy.com/)
 <br>•	Halı yıkama mağazası için özel olarak tasarlanmış bir web sitesi oluşturdum.
 <br>•	Mağaza hizmetleri, iletişim bilgileri ve diğer detaylarını içeren kullanıcı dostu bir web sitesi geliştirdim.
-<br>
+<br>-->
 ## CSS HTML ve Javascriptle Hazırladığım Web Sitelerinden Örnekler:
 <br>3.	Anime Temalı Web Sitesi: [nyarlko.com](http://nyarlko.com/)
 <br>•	Yer gösterici olarak özel olarak tasarlanmış bir web sitesi oluşturdum.
