@@ -1,16 +1,16 @@
 <!--"Raw'a basıp inceleyecek kadar meraklılar için ek bilgi: Youtube'da arama yaparken before:2017 after:2015 şeklinde arayarak tamamiyle youtube'nin yeni s***k arama sistemini ve shortsları bypass edebilirsin.  İkisinden birinide kullanabilirsin."-->
 <!---- 🌎 <img src="https://raw.githubusercontent.com/ny4rlk0/ny4rlk0.github.io/main/tr.png"> -->
-<!--
+İletişim: Instagram: @user88362728
 ## Yetenekler:
 <br>•	Web Geliştirme ve Programlama Becerileri (Wordpress, PHP, HTML, CSS, Javascript)
 <br>•	Python, C#, Batch ve PHP Dillerinde Yazılım Geliştirme
-<br>•	Veritabanı Yönetimi (MySQL)
-<br>•	Raspberry PI, Digital Ocean, Cloud Flare gibi teknolojilere hakimiyet
+<!--<br>•	Veritabanı Yönetimi (MySQL)-->
+<!--<br>•	Raspberry PI, Digital Ocean, Cloud Flare gibi teknolojilere hakimiyet-->
 <br>•	Grafik Tasarım ve Düzenleme (Adobe Photoshop, Blender, Clip Studio Paint)
 <br>•	Oyun Motoru ile Oyun Geliştirme (Unity)
-<br>•	Sosyal Medya Yönetimi
+<!--<br>•	Sosyal Medya Yönetimi
 <!-- <br>• Yazılım Üzerinde Tersine Mühendislik -->
-<!--
+
 ## Sertifikalar:
 <br>•	Unity ile Dijital Oyun Geliştirmeye Giriş
 <br>•	Blender 2.8 Anime Character Creation, for Games
@@ -38,17 +38,18 @@
 <br>•	Yer gösterici olarak özel olarak tasarlanmış bir web sitesi oluşturdum.
 <!-- <br>Github Adresim: [Github](https://github.com/ny4rlk0) -->
 <!--
+
 ## Eğitim:
 <br>Bilgisayar Programcılığı (Meslek Yüksekokulu) Eylül 2021 - Haziran 2023
-
+-->
 ## Proje Deneyimleri:
-### 1.	Anime MMORPG - Sanal Gerçeklikte Oynanan MMORPG Oyunu Şahsi Proje, Ocak 2023 - Şu Anda Unity motorunu ve Oculus Meta Quest 2'yi 
+<!--### 1.	Anime MMORPG - Sanal Gerçeklikte Oynanan MMORPG Oyunu Şahsi Proje, Ocak 2023 - Şu Anda Unity motorunu ve Oculus Meta Quest 2'yi 
 kullanarak Sanal Gerçeklikte oynanan Anime tabanlı bir MMORPG oyunu üzerinde çalışıyorum.
 <br>•	Oyunun tasarımı, sanal dünyanın oluşturulması, karakterlerin ve dünyanın animasyonları gibi çeşitli görevleri üstleniyorum.
 <br>•	Gerçek zamanlı çok oyunculu bir deneyim sunan ve oyun içinde etkileşimli öğeleri yöneten bir MMORPG oyunu geliştiriyorum.
 <br>•	VR oyunlarında hareket mekaniği, etkileşim sistemleri ve oyun içi deneyimi optimize etmeye yönelik çalışmalar yaptım.
 <br>•	Oculus Meta Quest 2 platformu için oyunların performansını ve kullanıcı deneyimini iyileştirmeye odaklandım.
-<br>•	Unity ve Oculus Meta Quest 2 gibi teknolojilerle çalışmak, sanal gerçeklik ve oyun geliştirme alanlarında oldukça heyecan verici ve <br>ilgi çekici bir deneyim sağlıyor. Bu projelerde elde ettiğim tecrübe, oyun geliştirme ve sanal gerçeklik alanında yetkinliklerimi <br>arttırmama yardımcı oldu. Özellikle gerçek zamanlı oyun deneyimi sunan MMORPG projem, kullanıcıların sanal dünyada birbirleriyle <br>etkileşime geçebileceği ve eğlenceli bir deneyim yaşayabileceği bir platform oluşturmayı hedefliyor.
+<br>•	Unity ve Oculus Meta Quest 2 gibi teknolojilerle çalışmak, sanal gerçeklik ve oyun geliştirme alanlarında oldukça heyecan verici ve <br>ilgi çekici bir deneyim sağlıyor. Bu projelerde elde ettiğim tecrübe, oyun geliştirme ve sanal gerçeklik alanında yetkinliklerimi <br>arttırmama yardımcı oldu. Özellikle gerçek zamanlı oyun deneyimi sunan MMORPG projem, kullanıcıların sanal dünyada birbirleriyle <br>etkileşime geçebileceği ve eğlenceli bir deneyim yaşayabileceği bir platform oluşturmayı hedefliyor.-->
 ### 2.	Android Toolbox - [Android Cihazları için Python Araç Seti](https://github.com/ny4rlk0/Android-Toolbox-ADB) Şahsi Proje, Ocak 2023 - Şu Anda
 <br>•	Python kullanarak Android cihazları için bir araç seti geliştirdim.
 <br>•	ADB komutlarını otomatikleştiren ve Android cihazları üzerinde çeşitli işlemleri gerçekleştiren bir araç seti tasarladım.
