@@ -1,6 +1,6 @@
 <!--"Raw'a basıp inceleyecek kadar meraklılar için ek bilgi: Youtube'da arama yaparken before:2017 after:2015 şeklinde arayarak tamamiyle youtube'nin yeni s***k arama sistemini ve shortsları bypass edebilirsin.  İkisinden birinide kullanabilirsin."-->
 <!---- 🌎 <img src="https://raw.githubusercontent.com/ny4rlk0/ny4rlk0.github.io/main/tr.png"> -->
-İletişim: Instagram: @user88362728
+Contact / İletişim: Instagram: @user88362728
 ## Yetenekler:
 <br>•	Web Geliştirme ve Programlama Becerileri (Wordpress, PHP, HTML, CSS, Javascript)
 <br>•	Python, C#, Batch ve PHP Dillerinde Yazılım Geliştirme
