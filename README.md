@@ -4,8 +4,6 @@ Contact / İletişim: Instagram Username: @user88362728
 <br>
 ![ny4rlk0's Stats](https://github-readme-stats.vercel.app/api?username=ny4rlk0&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
 <br>
-![ny4rlk0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ny4rlk0&theme=gruvbox&show_icons=true&hide_border=false)
-<br>
 ![ny4rlk0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ny4rlk0&theme=gruvbox&hide_border=false)
 <br>
 ## Yetenekler:
