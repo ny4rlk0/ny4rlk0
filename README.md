@@ -7,7 +7,8 @@
 ![ny4rlk0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ny4rlk0&theme=gruvbox&hide_border=false)
 <br>
 
-## Yetenekler:
+<!--## Yetenekler:-->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=C58719&vCenter=true&random=false&width=435&lines=Yetenekler%3A" alt="Typing SVG" /></a>
 <br>•	Web Geliştirme ve Programlama Becerileri (Wordpress, PHP, HTML, CSS, Javascript)
 <br>•	Python, C#, Batch ve PHP Dillerinde Yazılım Geliştirme
 <!--<br>•	Veritabanı Yönetimi (MySQL)-->
@@ -17,7 +18,8 @@
 <!--<br>•	Sosyal Medya Yönetimi
 <!-- <br>• Yazılım Üzerinde Tersine Mühendislik -->
 
-## Sertifikalar:
+<!--## Sertifikalar:-->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=C58719&vCenter=true&random=false&width=435&lines=Sertifikalar:%3A" alt="Typing SVG" /></a>
 <br>•	Unity ile Dijital Oyun Geliştirmeye Giriş
 <br>•	Blender 2.8 Anime Character Creation, for Games
 <br>•	Adobe Photoshop CC 2023
@@ -29,8 +31,9 @@
 <br>•	Python ile Sıfırdan İleri Seviye Programlama
 <br>•	Temel Ağ Teknolojileri
 <br>•	Unity ile 3D Oyun Geliştirme (İleri Seviye)
-<!--
-## WordPress ile Hazırladığım Web Sitelerinden Örnekler:
+<!---->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=C58719&vCenter=true&random=false&width=435&lines=Yapt%C4%B1%C4%9F%C4%B1m+Siteler%3A" alt="Typing SVG" /></a>
+<!--## WordPress ile Hazırladığım Web Sitelerinden Örnekler:-->
 <br>1.	Haber Dergisi Teknoloji Konulu Site: [Bilgi Dergisi](http://bilgidergisi.infinityfreeapp.com/)
 <br>•	Haber dergisi formatında hazırlanan teknoloji konulu bir website tasarımı gerçekleştirdim.
 <br>•	Site içeriği ve düzenlemelerini yöneterek güncel haberlerin paylaşılmasını sağladım.
@@ -38,8 +41,8 @@
 <br>2.	Halı Yıkama Mağazası İçin Web Sitesi: [BiciBici Halı Yıkama](http://bicibici-haliyikama.epizy.com/)
 <br>•	Halı yıkama mağazası için özel olarak tasarlanmış bir web sitesi oluşturdum.
 <br>•	Mağaza hizmetleri, iletişim bilgileri ve diğer detaylarını içeren kullanıcı dostu bir web sitesi geliştirdim.
-<br>-->
-## CSS HTML ve Javascriptle Hazırladığım Web Sitelerinden Örnekler:
+<br>
+<!--## Web Sitelerinden Örnekler:-->
 <br>3.	Anime Temalı Web Sitesi: [nyarlko.com](http://nyarlko.com/)
 <br>•	Yer gösterici olarak özel olarak tasarlanmış bir web sitesi oluşturdum.
 <!-- <br>Github Adresim: [Github](https://github.com/ny4rlk0) -->
@@ -48,13 +51,11 @@
 ## Eğitim:
 <br>Bilgisayar Programcılığı (Meslek Yüksekokulu) Eylül 2021 - Haziran 2023
 -->
-## Proje Deneyimleri:
-<!--### 1.	Anime MMORPG - Sanal Gerçeklikte Oynanan MMORPG Oyunu Şahsi Proje, Ocak 2023 - Şu Anda Unity motorunu ve Oculus Meta Quest 2'yi 
-kullanarak Sanal Gerçeklikte oynanan Anime tabanlı bir MMORPG oyunu üzerinde çalışıyorum.
+<!--## Proje Deneyimleri:-->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=C58719&vCenter=true&random=false&width=435&lines=Proje+Deneyimleri%3A" alt="Typing SVG" /></a>
+1.	Anime MMORPG - Sanal Gerçeklikte Oynanan MMORPG Oyunu Şahsi Proje, Ocak 2023 - Unity motorunu ve Oculus Meta Quest 2'yi 
+kullanarak Sanal Gerçeklikte oynanan Anime tabanlı bir oyun.
 <br>•	Oyunun tasarımı, sanal dünyanın oluşturulması, karakterlerin ve dünyanın animasyonları gibi çeşitli görevleri üstleniyorum.
-<br>•	Gerçek zamanlı çok oyunculu bir deneyim sunan ve oyun içinde etkileşimli öğeleri yöneten bir MMORPG oyunu geliştiriyorum.
-<br>•	VR oyunlarında hareket mekaniği, etkileşim sistemleri ve oyun içi deneyimi optimize etmeye yönelik çalışmalar yaptım.
-<br>•	Oculus Meta Quest 2 platformu için oyunların performansını ve kullanıcı deneyimini iyileştirmeye odaklandım.
 <br>•	Unity ve Oculus Meta Quest 2 gibi teknolojilerle çalışmak, sanal gerçeklik ve oyun geliştirme alanlarında oldukça heyecan verici ve <br>ilgi çekici bir deneyim sağlıyor. Bu projelerde elde ettiğim tecrübe, oyun geliştirme ve sanal gerçeklik alanında yetkinliklerimi <br>arttırmama yardımcı oldu. Özellikle gerçek zamanlı oyun deneyimi sunan MMORPG projem, kullanıcıların sanal dünyada birbirleriyle <br>etkileşime geçebileceği ve eğlenceli bir deneyim yaşayabileceği bir platform oluşturmayı hedefliyor.-->
 ### 2.	Android Toolbox - [Android Cihazları için Python Araç Seti](https://github.com/ny4rlk0/Android-Toolbox-ADB) Şahsi Proje, Ocak 2023 - Şu Anda
 <br>•	Python kullanarak Android cihazları için bir araç seti geliştirdim.
