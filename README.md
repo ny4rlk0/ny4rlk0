@@ -1,9 +1,12 @@
 <!--"Raw'a basıp inceleyecek kadar meraklılar için ek bilgi: Youtube'da arama yaparken before:2017 after:2015 şeklinde arayarak tamamiyle youtube'nin yeni s***k arama sistemini ve shortsları bypass edebilirsin.  İkisinden birinide kullanabilirsin."-->
 <!---- 🌎 <img src="https://raw.githubusercontent.com/ny4rlk0/ny4rlk0.github.io/main/tr.png"> -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&center=true&vCenter=true&random=false&width=435&lines=nyarlko" alt="Typing SVG" /></a>
+<br>
 ![ny4rlk0's Stats](https://github-readme-stats.vercel.app/api?username=ny4rlk0&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
 <br>
 ![ny4rlk0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ny4rlk0&theme=gruvbox&hide_border=false)
 <br>
+
 ## Yetenekler:
 <br>•	Web Geliştirme ve Programlama Becerileri (Wordpress, PHP, HTML, CSS, Javascript)
 <br>•	Python, C#, Batch ve PHP Dillerinde Yazılım Geliştirme
