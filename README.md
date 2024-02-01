@@ -51,15 +51,19 @@
 ## Eğitim:
 <br>Bilgisayar Programcılığı (Meslek Yüksekokulu) Eylül 2021 - Haziran 2023
 -->
-<!-- ## Proje Deneyimleri: -->
+<!--
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=C58719&vCenter=true&random=false&width=435&lines=Proje+Deneyimleri%3A" alt="Typing SVG" /></a>
+Proje Deneyimleri:
+<br>
+<!--
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=C58719&vCenter=true&random=false&width=435&lines=Proje+Deneyimleri%3A" alt="Typing SVG" /></a>-->
 <!--
 ### 1.	Anime MMORPG - Sanal Gerçeklikte Oynanan MMORPG Oyunu Şahsi Proje, Ocak 2023 - Unity motorunu ve Oculus Meta Quest 2'yi 
 kullanarak Sanal Gerçeklikte oynanan Anime tabanlı bir oyun.
 <br>•	Oyunun tasarımı, sanal dünyanın oluşturulması, karakterlerin ve dünyanın animasyonları gibi çeşitli görevleri üstleniyorum.
 <br>•	Unity ve Oculus Meta Quest 2 gibi teknolojilerle çalışmak, sanal gerçeklik ve oyun geliştirme alanlarında oldukça heyecan verici ve <br>ilgi çekici bir deneyim sağlıyor. Bu projelerde elde ettiğim tecrübe, oyun geliştirme ve sanal gerçeklik alanında yetkinliklerimi <br>arttırmama yardımcı oldu. Özellikle gerçek zamanlı oyun deneyimi sunan MMORPG projem, kullanıcıların sanal dünyada birbirleriyle <br>etkileşime geçebileceği ve eğlenceli bir deneyim yaşayabileceği bir platform oluşturmayı hedefliyor.
 -->
+<!--
 <br>
 2.	Android Toolbox - [Android Cihazları için Python Araç Seti](https://github.com/ny4rlk0/Android-Toolbox-ADB) Şahsi Proje, Ocak 2023 - Şu Anda
 <br>•	Python kullanarak Android cihazları için bir araç seti geliştirdim.
@@ -103,14 +107,13 @@ kullanarak Sanal Gerçeklikte oynanan Anime tabanlı bir oyun.
 <br>•	Kullanıcıların gruplara otomatik olarak eklenmelerini sağlayan ve grup yönetimini kolaylaştıran bir Telegram botu tasarladım.
 <br>16. [BossBotnet](https://github.com/neptune1881/BossBotnet) Varolan Botnetlerden Birini Tespit ve Farkındalık Oluşturma Girişimi Şahsi Proje, Şubat 2023 - Nisan 2023
 <br>• Tersine mühendislik yöntemleriyle kaynak koduna kadar inerek ne yaptığını çözümlüyorum.
-<br>• Bu projeyi gerçekleştirirken, siber güvenlik konusundaki farkındalığı artırmayı, toplumu potansiyel tehditlere karşı bilinçlendirmeyi amaçlıyorum.
 <br>17. [Blender Modelleme](https://github.com/ny4rlk0/BlenderDumpster) Blender Programında Modellediğim Eşyalar ve CSP Programında Çizdiğim Dijital Çizimler Şahsi Proje, Ağustos 2023 - Eylül 2023
 <br>• Blender yazılımıyla eşya veya nesnelerin modellemelerini yapıyorum.
 <br>• Clip Studio Paint yazılımıyla dijital çizim çiziyorum.
 <br>18. [WindowsİmajAracı](https://github.com/ny4rlk0/WindowsImageTool) Windows ve PE İmajlarını Düzenleme Yazılımı Şahsi Proje, Ağustos 2023 - Ekim 2023
 <br>• Windows İmajlarını düzenleme, dosya ekleme, dil değiştirme vb.
 <br>
-<br>
+<br>-->
 <!--"If you want a happy ending, it depends on where you stop your story."-->
 <!-- - 🖼 I can draw: <a href="https://www.deviantart.com/ny4rlk0/gallery">Deviant Art</a>
 - 📜 I wrote few stories, although they all written in Turkish: <a href="https://www.wattpad.com/user/nyarlk0">Wattpad</a>
