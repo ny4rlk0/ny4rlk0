@@ -41,6 +41,7 @@
 <br>3.	Anime Temalı Web Sitesi: [nyarlko.com](http://nyarlko.com/)
 <br>•	Yer gösterici olarak özel olarak tasarlanmış bir web sitesi oluşturdum.
 <br>
+<!--
 ### 1.	Android Toolbox - [Android Cihazları için Python Araç Seti](https://github.com/ny4rlk0/Android-Toolbox-ADB) Şahsi Proje, Ocak 2023 - Şu Anda
 <br>•	Python kullanarak Android cihazları için bir araç seti geliştirdim.
 <br>•	ADB komutlarını otomatikleştiren ve Android cihazları üzerinde çeşitli işlemleri gerçekleştiren bir araç seti tasarladım.
