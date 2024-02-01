@@ -11,13 +11,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=C58719&vCenter=true&random=false&width=435&lines=Yetenekler%3A" alt="Typing SVG" /></a>
 <br>•	Web Geliştirme ve Programlama Becerileri (Wordpress, PHP, HTML, CSS, Javascript)
 <br>•	Python, C#, Batch ve PHP Dillerinde Yazılım Geliştirme
-<!--<br>•	Veritabanı Yönetimi (MySQL)-->
-<!--<br>•	Raspberry PI, Digital Ocean, Cloud Flare gibi teknolojilere hakimiyet-->
 <br>•	Grafik Tasarım ve Düzenleme (Adobe Photoshop, Blender, Clip Studio Paint)
 <br>•	Oyun Motoru ile Oyun Geliştirme (Unity)
+<!--<br>•	Veritabanı Yönetimi (MySQL)--><!--<br>•	Raspberry PI, Digital Ocean, Cloud Flare gibi teknolojilere hakimiyet-->
 <!--<br>•	Sosyal Medya Yönetimi-->
 <!-- <br>• Yazılım Üzerinde Tersine Mühendislik -->
-
 <!--## Sertifikalar:-->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=C58719&vCenter=true&random=false&width=435&lines=Sertifikalar%3A" alt="Typing SVG" /></a>
 <br>•	Unity ile Dijital Oyun Geliştirmeye Giriş
