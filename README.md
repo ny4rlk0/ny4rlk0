@@ -52,7 +52,9 @@
 <br>Bilgisayar Programcılığı (Meslek Yüksekokulu) Eylül 2021 - Haziran 2023
 -->
 <!--## Proje Deneyimleri:-->
+<br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=C58719&vCenter=true&random=false&width=435&lines=Proje+Deneyimleri%3A" alt="Typing SVG" /></a>
+<br>
 ###1.	Anime MMORPG - Sanal Gerçeklikte Oynanan MMORPG Oyunu Şahsi Proje, Ocak 2023 - Unity motorunu ve Oculus Meta Quest 2'yi 
 kullanarak Sanal Gerçeklikte oynanan Anime tabanlı bir oyun.
 <br>•	Oyunun tasarımı, sanal dünyanın oluşturulması, karakterlerin ve dünyanın animasyonları gibi çeşitli görevleri üstleniyorum.
