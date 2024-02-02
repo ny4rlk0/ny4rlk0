@@ -1,5 +1,5 @@
 <!--"Raw'a basıp inceleyecek kadar meraklılar için ek bilgi: Youtube'da arama yaparken before:2017 after:2015 şeklinde arayabilirsin."-->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=C58719&center=true&vCenter=true&random=false&width=435&lines=nyarlko" alt="Typing SVG" /></a>
+<a href="https://nyarlko.com/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=C58719&center=true&vCenter=true&random=false&width=435&lines=nyarlko" alt="Typing SVG" /></a>
 <br>
 ![ny4rlk0's Stats](https://github-readme-stats.vercel.app/api?username=ny4rlk0&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
 <br>
