@@ -6,11 +6,12 @@
 ![ny4rlk0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ny4rlk0&theme=gruvbox&hide_border=false)
 <br>
 
-## Yetenekler:
+## Tecrübelerim:
 <br>•	Web Geliştirme ve Programlama Becerileri (Wordpress, PHP, HTML, CSS, Javascript)
-<br>•	Python, C#, Batch ve PHP Dillerinde Yazılım Geliştirme
+<br>•	Python, C#, Batch, C
 <br>•	Grafik Tasarım ve Düzenleme (Adobe Photoshop, Blender, Clip Studio Paint)
 <br>•	Oyun Motoru ile Oyun Geliştirme (Unity)
+<br>•	EFI / UEFI Uygulamaları Geliştirme
 <!--<br>•	Veritabanı Yönetimi (MySQL)-->
 <!--<br>•	Raspberry PI, Digital Ocean, Cloud Flare gibi teknolojilere hakimiyet-->
 <!--<br>•	Sosyal Medya Yönetimi-->
