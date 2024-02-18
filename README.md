@@ -9,7 +9,7 @@
 ## Tecrübelerim:
 <br>•	Web Geliştirme: Wordpress, PHP, HTML, CSS, Javascript
 <br>•	Programlama: Python, C#, Batch, C
-<br>•	Grafik Tasarım ve Düzenleme: (Adobe Photoshop, Blender, Clip Studio Paint)
+<br>•	Grafik Tasarım ve Düzenleme: Adobe Photoshop, Blender, Clip Studio Paint
 <br>•	Unity
 <br>•	EFI / UEFI Uygulamaları
 <br>• Yazılım ve Donanım Üzerinde Tersine Mühendislik
@@ -17,7 +17,6 @@
 <br>•	Raspberry PI, Digital Ocean, Cloud Flare
 <!-- gibi teknolojilere hakimiyet-->
 <!--<br>•	Sosyal Medya Yönetimi-->
-<!--<br>• Yazılım Üzerinde Tersine Mühendislik -->
 ## Sertifikalar:
 <br>•	Unity ile Dijital Oyun Geliştirmeye Giriş
 <br>•	Blender 2.8 Anime Character Creation, for Games
