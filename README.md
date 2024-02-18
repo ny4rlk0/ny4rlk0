@@ -14,7 +14,7 @@
 <br>•	Unity
 <br>•	EFI / UEFI Uygulamaları
 <br>• Yazılım ve Donanım Üzerinde Tersine Mühendislik 
-<br>•	Veritabanı Yönetimi (MySQL)-->
+<br>•	Veritabanı Yönetimi (MySQL)
 <br>•	Raspberry PI, Arduino
 <!--, Digital Ocean, Cloud Flare-->
 <!-- gibi teknolojilere hakimiyet-->
