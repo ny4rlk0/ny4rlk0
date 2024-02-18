@@ -10,7 +10,7 @@
 ## Tecrübelerim:
 <br>•	Web Geliştirme: Wordpress, PHP, HTML, CSS, Javascript
 <br>•	Programlama: Python, C#, Batch, C
-<br>•	Grafik Tasarım ve Düzenleme: Adobe Photoshop, Blender, Clip Studio Paint
+<br>•	Grafik Tasarım: Adobe Photoshop, Blender, Clip Studio Paint
 <br>•	Unity
 <br>•	EFI / UEFI Uygulamaları
 <br>• Yazılım ve Donanım Üzerinde Tersine Mühendislik 
