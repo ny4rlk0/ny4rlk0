@@ -7,14 +7,15 @@
 <br>
 
 ## Tecrübelerim:
-<br>•	Web Geliştirme ve Programlama Becerileri (Wordpress, PHP, HTML, CSS, Javascript)
-<br>•	Python, C#, Batch, C
-<br>•	Grafik Tasarım ve Düzenleme (Adobe Photoshop, Blender, Clip Studio Paint)
+<br>•	Web Geliştirme: Wordpress, PHP, HTML, CSS, Javascript
+<br>•	Programlama: Python, C#, Batch, C
+<br>•	Grafik Tasarım ve Düzenleme: (Adobe Photoshop, Blender, Clip Studio Paint)
 <br>•	Unity
 <br>•	EFI / UEFI Uygulamaları
 <br>• Yazılım ve Donanım Üzerinde Tersine Mühendislik
-<!--<br>•	Veritabanı Yönetimi (MySQL)-->
-<!--<br>•	Raspberry PI, Digital Ocean, Cloud Flare gibi teknolojilere hakimiyet-->
+<br>•	Veritabanı Yönetimi (MySQL)-->
+<br>•	Raspberry PI, Digital Ocean, Cloud Flare
+<!-- gibi teknolojilere hakimiyet-->
 <!--<br>•	Sosyal Medya Yönetimi-->
 <!--<br>• Yazılım Üzerinde Tersine Mühendislik -->
 ## Sertifikalar:
