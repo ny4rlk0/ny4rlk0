@@ -12,10 +12,10 @@
 <br>•	Programlama: Python, C#, Batch, C
 <br>•	Grafik Tasarım: Adobe Photoshop, Blender, Clip Studio Paint
 <br>•	Unity
-<br>•	EFI / UEFI Uygulamaları
+<!--<br>•	EFI / UEFI Uygulamaları
 <br>• Yazılım ve Donanım Üzerinde Tersine Mühendislik 
 <br>•	Veritabanı Yönetimi (MySQL)
-<br>•	Raspberry PI, Arduino
+<br>•	Raspberry PI, Arduino-->
 <!--, Digital Ocean, Cloud Flare-->
 <!-- gibi teknolojilere hakimiyet-->
 <!--<br>•	Sosyal Medya Yönetimi-->
@@ -45,8 +45,8 @@
 <br>3.	Anime Temalı Web Sitesi: [nyarlko.com](http://nyarlko.com/)
 <br>•	Yer gösterici olarak özel olarak tasarlanmış bir web sitesi oluşturdum.
 <br>
-## Güncel Zaman Diliminde Ne Yapıyorum?
-<br>• Satışa sunmak için UEFI uygulaması yazıyorum...
+<!--## Güncel Zaman Diliminde Ne Yapıyorum?
+<br>• Satışa sunmak için UEFI uygulaması yazıyorum...-->
 <!--
 ### 1.	Android Toolbox - [Android Cihazları için Python Araç Seti](https://github.com/ny4rlk0/Android-Toolbox-ADB) Şahsi Proje, Ocak 2023 - Şu Anda
 <br>•	Python kullanarak Android cihazları için bir araç seti geliştirdim.
