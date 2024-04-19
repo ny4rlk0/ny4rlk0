@@ -1,4 +1,4 @@
-<!--"Raw'a basıp inceleyecek kadar meraklılar için ek bilgi: Youtube'da arama yaparken before:2017 after:2015 şeklinde arayabilirsin."-->
+<!--"Youtube'da arama yaparken before:2017 after:2015 şeklinde arayabilirsin."-->
 <!--<a href="https://nyarlko.com/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=C58719&center=true&vCenter=true&random=false&width=435&lines=nyarlko" alt="nyarlko" /></a>-->
 <a href="https://nyarlko.com/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=500&color=2FCF00&background=000000&multiline=true&random=false&width=700&height=140&separator=%3C&lines=nyarlko%40asus%3A~%24+sudo+-i%3Croot%40asus~%23+while+true;do+echo+%22!ny4rlk0%22;+sleep+1;+done%3C!ny4rlk0%3C!ny4rlk0%3C!ny4rlk0" alt="nyarlko" /></a>
 <br>
@@ -18,7 +18,7 @@
 <br>•	Raspberry PI, Arduino-->
 <!--, Digital Ocean, Cloud Flare-->
 <!-- gibi teknolojilere hakimiyet-->
-<!--<br>•	Sosyal Medya Yönetimi-->
+<!--<br>•	Sosyal Medya Yönetimi ve Otomasyonu-->
 ## Sertifikalar:
 <br>•	Unity ile Dijital Oyun Geliştirmeye Giriş
 <br>•	Blender 2.8 Anime Character Creation, for Games
@@ -32,6 +32,7 @@
 <br>•	Temel Ağ Teknolojileri
 <br>•	Unity ile 3D Oyun Geliştirme (İleri Seviye)
 <br>
+<!--
 ## WordPress ile Hazırladığım Web Sitelerinden Örnekler:
 <br>1.	Haber Dergisi Teknoloji Konulu Site: [Bilgi Dergisi](http://bilgidergisi.infinityfreeapp.com/)
 <br>•	Haber dergisi formatında hazırlanan teknoloji konulu bir website tasarımı gerçekleştirdim.
@@ -45,6 +46,7 @@
 <br>3.	Anime Temalı Web Sitesi: [nyarlko.com](http://nyarlko.com/)
 <br>•	Yer gösterici olarak özel olarak tasarlanmış bir web sitesi oluşturdum.
 <br>
+-->
 <!--## Güncel Zaman Diliminde Ne Yapıyorum?
 <br>• Satışa sunmak için UEFI uygulaması yazıyorum...-->
 <!--
