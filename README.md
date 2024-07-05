@@ -9,7 +9,7 @@
 
 ## Tecrübelerim:
 <br>•	Web Geliştirme: Wordpress, PHP, HTML, CSS, Javascript
-<br>•	Programlama: Python, C#, Batch, C
+<br>•	Programlama: Python, C# <!--, Batch, C-->
 <br>•	Grafik Tasarım: Adobe Photoshop, Blender, Clip Studio Paint
 <br>•	Unity
 <!--<br>•	EFI / UEFI Uygulamaları
