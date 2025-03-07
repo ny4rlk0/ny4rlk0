@@ -4,9 +4,9 @@
 <br>
 ![ny4rlk0's Stats](https://github-readme-stats.vercel.app/api?username=ny4rlk0&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
 <br>
-![ny4rlk0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ny4rlk0&theme=gruvbox&hide_border=false)
+<!--![ny4rlk0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ny4rlk0&theme=gruvbox&hide_border=false)
 <br>
-
+-->
 ## Tecrübelerim:
 <!--<br>•	Web Geliştirme: Wordpress, PHP, HTML, CSS, Javascript-->
 <br>•	Programlama: Python, C# <!--, Batch, C-->
