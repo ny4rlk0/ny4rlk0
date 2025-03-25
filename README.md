@@ -43,6 +43,7 @@
 <br>•	ASUS Rog Strix (Sadece AMD CPU) (Ortalamanın Biraz Üzerinde Fiyat)
 <br>•	Lenovo LOQ (Sadece AMD CPU) (Ortalama Fiyat) (Ortalama Kasa Kalitesi) (Soğutma Sistemi Fena değil)
 <br>•	Acer Nitro 16 ve üstü alınabilir (Sadece AMD CPU)
+<br>
 <br>•	Lenovo LOQ Essentials (Uzak Dur Alma) (Kalitesi Kötü, Giriş Seviyesi)
 <br>•	HP Victus (Uzak Dur Alma) (Hinge problemleri, Aşırı ısınıyor, Soğutma sistemi yeterli değil.)
 <br>• [65W ve üstü tüm intel CPU içeren laptop/desktopları almayın.](https://www.reddit.com/r/GamingLaptops/comments/1eidjde/mods_please_pin_this_intel_cpu_issue/)
