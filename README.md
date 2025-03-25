@@ -32,6 +32,11 @@
 <br>•	Temel Ağ Teknolojileri
 <br>•	Unity ile 3D Oyun Geliştirme (İleri Seviye)
 <br>
+## Sağlam İş Laptopları:
+<br>• Lenovo Thinkpad (Windows x64 Arc) (Alınabilir: P, T, X, X1 | Alma: E, L, R, I ve diğerleri.)
+<br>•	Apple Macbook (Sadece Apple OSX ve Arm Ekosistemi)
+<br>•	HP Elitebook (Windows x64 Arc)
+<br>
 <!--
 ## WordPress ile Hazırladığım Web Sitelerinden Örnekler:
 <br>1.	Haber Dergisi Teknoloji Konulu Site: [Bilgi Dergisi](http://bilgidergisi.infinityfreeapp.com/)
