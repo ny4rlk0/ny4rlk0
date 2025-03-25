@@ -46,7 +46,7 @@
 <br>
 <br>•	Lenovo LOQ Essentials (Uzak Dur Alma) (Kalitesi Kötü, Giriş Seviyesi)
 <br>•	HP Victus (Uzak Dur Alma) (Hinge problemleri, Aşırı ısınıyor, Soğutma sistemi yeterli değil.)
-<br>• [65W ve üstü tüm intel CPU içeren laptop/desktopları almayın.](https://www.reddit.com/r/GamingLaptops/comments/1eidjde/mods_please_pin_this_intel_cpu_issue/)
+<br>• [65W ve üstü intel CPU içeren laptop/desktopları almayın.](https://www.reddit.com/r/GamingLaptops/comments/1eidjde/mods_please_pin_this_intel_cpu_issue/)
 <br>•	Hinge problemi: Laptop ekranı ve kasa kısmını birbirine bağlayan yer kırılması.
 <!--
 ## WordPress ile Hazırladığım Web Sitelerinden Örnekler:
