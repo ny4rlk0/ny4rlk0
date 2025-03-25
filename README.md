@@ -33,10 +33,20 @@
 <br>•	Unity ile 3D Oyun Geliştirme (İleri Seviye)
 <br>
 ## Sağlam İş Laptopları:
-<br>• Lenovo Thinkpad (Windows x64 Arc) (Alınabilir: P, T, X, X1 | Alma: E, L, R, I ve diğerleri.)
-<br>•	Apple Macbook (Arm64) (Sadece Apple OSX Ekosistemi, Windows çalıştırmaz.)
-<br>•	HP Elitebook (Windows x64 Arc)
+<br>• Lenovo Thinkpad (Windows, x64) (Alınabilir: P, T, X, X1 | Alma: E, L, R, I ve diğerleri.)
+<br>•	Apple Macbook (OSX, Arm64) (Sadece Apple Ekosistemi, Windows çalıştırmaz.)
+<br>•	HP Elitebook (Windows, x64)
 <br>
+## Oyun Laptopları:
+<br>• Lenovo Legion (Sadece AMD CPU olanları) (Pahalı) (Kasa Kaliteli) (Soğutma Sistemi İyi)
+<br>•	ASUS Rog Zephyrus (Sadece AMD CPU) (Pahalı) (Kasa Kaliteli) (Soğutma Sistemi İyi) (Termal Macun olarak sıvı metal kullanıyor CPU ve GPU çizdiği için PTM7950 ile değişmek isteyebilirsin.)
+<br>•	ASUS Rog Strix (Sadece AMD CPU) (Ortalamanın Biraz Üzerinde Fiyat)
+<br>•	Lenovo LOQ (Sadece AMD CPU) (Ortalama Fiyat) (Ortalama Kasa Kalitesi) (Soğutma Sistemi Fena değil)
+<br>•	Acer Nitro 16 ve üstü alınabilir (Sadece AMD CPU)
+<br>•	Lenovo LOQ Essentials (Uzak Dur Alma) (Kalitesi Kötü, Giriş Seviyesi)
+<br>•	HP Victus (Uzak Dur Alma) (Hinge problemleri, Aşırı ısınıyor, Soğutma sistemi yeterli değil.)
+<br>• [65W ve üstü tüm intel CPU içeren laptop/desktopları almayın.](https://www.reddit.com/r/GamingLaptops/comments/1eidjde/mods_please_pin_this_intel_cpu_issue/)
+<br>•	Hinge problemi: Laptop ekranı ve kasa kısmını birbirine bağlayan yer kırılması.
 <!--
 ## WordPress ile Hazırladığım Web Sitelerinden Örnekler:
 <br>1.	Haber Dergisi Teknoloji Konulu Site: [Bilgi Dergisi](http://bilgidergisi.infinityfreeapp.com/)
