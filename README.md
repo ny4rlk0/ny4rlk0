@@ -34,7 +34,7 @@
 <br>
 ## Sağlam İş Laptopları:
 <br>• Lenovo Thinkpad (Windows x64 Arc) (Alınabilir: P, T, X, X1 | Alma: E, L, R, I ve diğerleri.)
-<br>•	Apple Macbook (Sadece Apple OSX ve Arm Ekosistemi)
+<br>•	Apple Macbook (Arm64) (Sadece Apple OSX Ekosistemi, Windows çalıştırmaz.)
 <br>•	HP Elitebook (Windows x64 Arc)
 <br>
 <!--
