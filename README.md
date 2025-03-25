@@ -39,7 +39,7 @@
 <br>
 ## Oyun Laptopları:
 <br>• Lenovo Legion (Sadece AMD CPU olanları) (Pahalı) (Kasa Kaliteli) (Soğutma Sistemi İyi)
-<br>•	ASUS Rog Zephyrus (Sadece AMD CPU) (Pahalı) (Kasa Kaliteli) (Soğutma Sistemi İyi) (Termal Macun olarak sıvı metal kullanıyor CPU ve GPU çizdiği için PTM7950 ile değişmek isteyebilirsin.)
+<br>•	ASUS Rog Zephyrus (Sadece AMD CPU) (Pahalı) (Kasa Kaliteli) (Soğutma Sistemi İyi) <br>(Termal Macun olarak sıvı metal kullanıyor CPU ve GPU çizdiği için Honeywell PTM7950 ile değişmek isteyebilirsin.)
 <br>•	ASUS Rog Strix (Sadece AMD CPU) (Ortalamanın Biraz Üzerinde Fiyat)
 <br>•	Lenovo LOQ (Sadece AMD CPU) (Ortalama Fiyat) (Ortalama Kasa Kalitesi) (Soğutma Sistemi Fena değil)
 <br>•	Acer Nitro 16 ve üstü alınabilir (Sadece AMD CPU)
