@@ -32,7 +32,7 @@
 <br>•	Temel Ağ Teknolojileri
 <br>•	Unity ile 3D Oyun Geliştirme (İleri Seviye)
 <br>
-## Sağlam İş Laptopları:
+## İş Laptopları:
 <br>• Lenovo Thinkpad (Windows, x64) (Alınabilir: P, T, X, X1 | Alma: E, L, R, I ve diğerleri.)
 <br>•	Apple Macbook (OSX, Arm64) (Sadece Apple Ekosistemi, Windows çalıştırmaz.)
 <br>•	HP Elitebook (Windows, x64)
