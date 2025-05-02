@@ -52,7 +52,7 @@
 <br>•	Hinge problemi: Laptop ekranı ve kasa kısmını birbirine bağlayan yer kırılması.
 <br>
 # Windows 11 Yerel Hesap 
-<br>Shift + F10 (plus Fn if on laptop)
+<br>Shift + F10
 <br>Yaz: start ms-cxh:localonly
 <!--
 ## WordPress ile Hazırladığım Web Sitelerinden Örnekler:
