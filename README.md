@@ -54,6 +54,11 @@
 # Windows 11 Yerel Hesap 
 <br>Shift + F10
 <br>Yaz: start ms-cxh:localonly
+# Mevcut ASMR Ekipmanı
+<br> Fiio KA15 + Truthear Zero Red (EQ Kapalı, Ses Seviyesi 42A, PCM 384K, FAST PC, U2, DESKTOP MODE, empedans adaptörü takılı değil)
+# Önceki ASMR Ekipmanları
+<br> Moondrop Dawn Pro + Moondrop Chu 2
+<br> Fioo JA11 + Apple EarPods 3.5mm
 <!--
 ## WordPress ile Hazırladığım Web Sitelerinden Örnekler:
 <br>1.	Haber Dergisi Teknoloji Konulu Site: [Bilgi Dergisi](http://bilgidergisi.infinityfreeapp.com/)
