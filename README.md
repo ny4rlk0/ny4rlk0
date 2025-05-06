@@ -35,8 +35,8 @@
 ## İş Laptopları:
 <br>• Lenovo Thinkpad (Windows, x64) (Alınabilir: P, T, X, X1 | Alma: E, L, R, I ve diğerleri.)
 <br>•	Apple Macbook (OSX, Arm64) (Sadece Apple Ekosistemi, Windows çalıştırmaz.)
-<br>•	HP Elitebook (Windows, x64), OmniBook (Windows, Arm64)
-<br>• Dell Latitude 7000 / 5000 / Pro / Pro Plus Premium
+<br>•	HP Elitebook, ZBook (Windows, x64), OmniBook (Windows, Arm64) 
+<br>• Dell Latitude 7000 / 5000 / Pro Base (Latitude 3000) / Pro Max Base (Precision 3000) / Pro Plus (Latitude 5000) / Pro Premium (Precision 7000) / Pro Max Plus (Latitude 5000) / Pro Max Premium (Precision 7000)
 <br>
 ## Oyun Laptopları:
 <br>• Lenovo Legion (AMD CPU) (Pahalı) (Kasa Kaliteli) (Soğutma Sistemi İyi)
