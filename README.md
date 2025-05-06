@@ -56,13 +56,13 @@
 <br>Shift + F10
 <br>Yaz: start ms-cxh:localonly
 # Mevcut ASMR Ekipmanı
-<br> Fiio KA15 + Truthear Zero Red (EQ Kapalı, Ses Seviyesi 42A, 32 Bit PCM 384.000Hz, FAST PC, U2, DESKTOP MODE, DAC CLASS Modu H, empedans adaptörü takılı değil)
+<br>•	Fiio KA15 + Truthear Zero Red (EQ Kapalı, Ses Seviyesi 42A, 32 Bit PCM 384.000Hz, FAST PC, U2, DESKTOP MODE, DAC CLASS Modu H, empedans adaptörü takılı değil)
 # Önceki ASMR Ekipmanları
-<br> Moondrop Dawn Pro + Moondrop Chu 2
-<br> Fioo JA11 + Apple EarPods 3.5mm
-# ----
-<br> LL stands for low latency (minimum phase) and PC is phase compensated (linear phase).
-<br> Minimum Phase (LL) filters reduce latency/group delay in the signal. It is very useful in pro-audio applications. Linear Phase (PC) tends to be closer to the original input signal.
+<br>•	Moondrop Dawn Pro + Moondrop Chu 2
+<br>•	Fioo JA11 + Apple EarPods 3.5mm
+# Explaining to Do
+<br>•	LL stands for low latency (minimum phase) and PC is phase compensated (linear phase).
+<br>•	Minimum Phase (LL) filters reduce latency/group delay in the signal. It is very useful in pro-audio applications. Linear Phase (PC) tends to be closer to the original input signal.
 <!--
 ## WordPress ile Hazırladığım Web Sitelerinden Örnekler:
 <br>1.	Haber Dergisi Teknoloji Konulu Site: [Bilgi Dergisi](http://bilgidergisi.infinityfreeapp.com/)
