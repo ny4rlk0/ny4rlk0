@@ -55,7 +55,7 @@
 # Windows 11 Yerel Hesap 
 <br>Shift + F10
 <br>Yaz: start ms-cxh:localonly
-# Mevcut ASMR / Müzik Ekipmanı
+# Mevcut Müzik Ekipmanı
 <br>•	Fiio KA15 + Truthear Zero Red (EQ Açık Aşağıda, Ses Seviyesi 60A, 32 Bit PCM 384.000Hz, FAST PC, U2, DESKTOP MODE, DAC CLASS Modu AB, 10 Ohm Empedans Adaptörü takılı)
 # Önceki Ekipmanlar
 <br>•	Moondrop Dawn Pro + Moondrop Chu 2
