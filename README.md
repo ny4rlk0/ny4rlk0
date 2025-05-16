@@ -59,7 +59,7 @@
 <br>•	Fiio KA15 + Truthear Zero Red (EQ Açık Aşağıda, Ses Seviyesi 60A, 32 Bit PCM 384.000Hz, FAST PC, U2, DESKTOP MODE, DAC CLASS Modu AB, 10 Ohm Empedans Adaptörü takılı)
 # Önceki Ekipmanlar
 <br>•	Moondrop Dawn Pro + Moondrop Chu 2
-<br>•	Fioo JA11 + Apple EarPods 3.5mm
+<br>•	Fiio JA11 + Apple EarPods 3.5mm
 <!--# Explaining
 <br>•	LL stands for low latency (minimum phase) and PC is phase compensated (linear phase).
 <br>•	Minimum Phase (LL) filters reduce latency/group delay in the signal. It is very useful in pro-audio applications. Linear Phase (PC) tends to be closer to the original input signal.-->
