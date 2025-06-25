@@ -33,13 +33,13 @@
 <br>•	Unity ile 3D Oyun Geliştirme (İleri Seviye)
 <br>
 ## İş Laptopları:
-<br>• Lenovo Thinkpad (Windows, x64) (Alınabilir: P, T, X, X1 | Alma: E, L, R, I ve diğerleri.)
+<br>• Lenovo Thinkpad (Windows, x64) (Alınabilir: P, T, X, X1 | Alma: E, L, R, I ve diğerleri.) (Kullandıkları (Low Temperature Solder) Düşük Isı Lehimleme teknolojisi Anakartların bozulmasına yol açıyor.)
 <br>•	Apple Macbook (OSX, Arm64) (Sadece Apple Ekosistemi, Windows çalıştırmaz.)
 <br>•	HP Elitebook, ZBook (Windows, x64), OmniBook (Windows, Arm64) 
 <br>• Dell Latitude 7000 / 5000 / Pro Base (Latitude 3000) / Pro Max Base (Precision 3000) / Pro Plus (Latitude 5000) / Pro Premium (Precision 7000) / Pro Max Plus (Latitude 5000) / Pro Max Premium (Precision 7000)
 <br>
 ## Oyun Laptopları:
-<br>• Lenovo Legion (AMD CPU) (Pahalı) (Kasa Kaliteli) (Soğutma Sistemi İyi)
+<br>• Lenovo Legion (AMD CPU) (Pahalı) (Kasa Kaliteli) (Soğutma Sistemi İyi) (Kullandıkları (Low Temperature Solder) Düşük Isı Lehimleme teknolojisi Anakartların bozulmasına yol açıyor.)
 <br>•	ASUS Rog Zephyrus (AMD CPU) (Pahalı) (Kasa Kaliteli) (Soğutma Sistemi İyi) <br>(Termal Macun olarak sıvı metal kullanıyor CPU ve GPU çizdiği için Honeywell PTM7950 ile değişmek isteyebilirsin.)
 <br>•	ASUS Rog Strix (AMD CPU) (Ortalamanın Biraz Üzerinde Fiyat)
 <br>•	Lenovo LOQ (AMD CPU) (Ortalama Fiyat) (Ortalama Kasa Kalitesi) (Soğutma Sistemi Fena değil)
