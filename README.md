@@ -54,6 +54,7 @@
 <br>• [65W ve üstü intel CPU içeren laptop/desktopları almayın.](https://www.reddit.com/r/GamingLaptops/comments/1eidjde/mods_please_pin_this_intel_cpu_issue/)
 <br>•	Hinge problemi: Laptop ekranı ve kasa kısmını birbirine bağlayan yer kırılması.
 <br>-->
+<!--
 # Windows 11 Yerel Hesap 
 <br>Shift + F10
 <br>Yaz: start ms-cxh:localonly
@@ -65,7 +66,7 @@
 <!--# Explaining
 <br>•	LL stands for low latency (minimum phase) and PC is phase compensated (linear phase).
 <br>•	Minimum Phase (LL) filters reduce latency/group delay in the signal. It is very useful in pro-audio applications. Linear Phase (PC) tends to be closer to the original input signal.-->
-# Mevcut EQ (Fiio - KA 15)
+<!--# Mevcut EQ (Fiio - KA 15)
 <br>
 <a href="https://raw.githubusercontent.com/ny4rlk0/Truthear-x-Crinacle-Zero/refs/heads/main/Fiio%20KA15%20-%20Thurthear%20x%20Zero%20Red%20%2B%2010%20Ohm%20Bass%20Adapter.png"><img src="https://raw.githubusercontent.com/ny4rlk0/Truthear-x-Crinacle-Zero/refs/heads/main/Fiio%20KA15%20-%20Thurthear%20x%20Zero%20Red%20%2B%2010%20Ohm%20Bass%20Adapter.png" alt="Fiio KA15" style=""></a>
 <!--
