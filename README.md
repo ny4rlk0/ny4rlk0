@@ -2,8 +2,8 @@
 <!--<a href="https://nyarlko.com/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=C58719&center=true&vCenter=true&random=false&width=435&lines=nyarlko" alt="nyarlko" /></a>-->
 <!--<a href="https://nyarlko.com/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=500&color=2FCF00&background=0D1117&multiline=true&random=false&width=700&height=140&separator=%3C&lines=nyarlko%40asus%3A~%24+sudo+-i%3Croot%40asus~%23+while+true;do+echo+%22!ny4rlk0%22;+sleep+1;+done%3C!ny4rlk0%3C!ny4rlk0%3C!ny4rlk0" alt="nyarlko" /></a>
 <br>-->
-![ny4rlk0's Stats](https://github-readme-stats.vercel.app/api?username=ny4rlk0&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
-<br>
+<!--![ny4rlk0's Stats](https://github-readme-stats.vercel.app/api?username=ny4rlk0&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
+<br>-->
 <!--![ny4rlk0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ny4rlk0&theme=gruvbox&hide_border=false)
 <br>
 -->
