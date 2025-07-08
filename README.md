@@ -9,9 +9,9 @@
 -->
 ## Tecrübelerim:
 <!--<br>•	Web Geliştirme: Wordpress, PHP, HTML, CSS, Javascript-->
-<br>•	Programlama: Python, C# <!--, Batch, C-->
-<br>•	Grafik Tasarım: Adobe Photoshop, Blender, Clip Studio Paint
-<br>•	Oyun Motoru: Unity
+<!--<br>•	Programlama: Python, C# <!--, Batch, C-->
+<!--<br>•	Grafik Tasarım: Adobe Photoshop, Blender, Clip Studio Paint-->
+<!--<br>•	Oyun Motoru: Unity-->
 <!--<br>•	EFI / UEFI Uygulamaları
 <br>• Yazılım ve Donanım Üzerinde Tersine Mühendislik 
 <br>•	Veritabanı Yönetimi (MySQL)
@@ -19,7 +19,7 @@
 <!--, Digital Ocean, Cloud Flare-->
 <!-- gibi teknolojilere hakimiyet-->
 <!--<br>•	Sosyal Medya Yönetimi ve Otomasyonu-->
-## Sertifikalar:
+<!--## Sertifikalar:
 <br>•	Unity ile Dijital Oyun Geliştirmeye Giriş
 <br>•	Blender 2.8 Anime Character Creation, for Games
 <br>•	Adobe Photoshop CC 2023
