@@ -7,7 +7,7 @@
 <!--![ny4rlk0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ny4rlk0&theme=gruvbox&hide_border=false)
 <br>
 -->
-## Tecrübelerim:
+<!--## Tecrübelerim:-->
 <!--<br>•	Web Geliştirme: Wordpress, PHP, HTML, CSS, Javascript-->
 <!--<br>•	Programlama: Python, C# <!--, Batch, C-->
 <!--<br>•	Grafik Tasarım: Adobe Photoshop, Blender, Clip Studio Paint-->
